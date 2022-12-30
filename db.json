@@ -63,9 +63,15 @@
     ],
     "post":[],
    "invoices":[
-       {"id": 1,"sno": 1, "amount": 2300, "item_type": 0},
-         {"id": 2,"sno": 2, "amount": 23500, "item_type": 1},
-        {"id": 3,"sno": 3, "amount": 35000, "item_type": 2}
+        {"id": 1,"sno": 1, "amount": 2300, "item_type": 0},
+        {"id": 2,"sno": 2, "amount": 23500, "item_type": 1},
+        {"id": 3,"sno": 3, "amount": 35000, "item_type": 2},
+        {"id": 4,"sno": 4, "amount": 45500, "item_type": 0.5},
+        {"id": 5,"sno": 5, "amount": 55000, "item_type": 4},
+        {"id": 6,"sno": 6, "amount": 6500, "item_type": 1.5},
+        {"id": 7,"sno": 7, "amount": 79000, "item_type": 6},
+        {"id": 8,"sno": 8, "amount": 65500, "item_type": 1},
+        {"id": 9,"sno": 9, "amount": 23000, "item_type": 2}
 
    
    
